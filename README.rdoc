@@ -1,6 +1,6 @@
 = toggl4r
 
-Description goes here.
+Toggl (http://www.toggl.com) API Wrapper. Version 0.16.12
 
 == Copyright
 

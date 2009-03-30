@@ -5,7 +5,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "toggl4r"
-    gem.summary = %Q{TODO}
+    gem.summary = "api wrapper for toggl (http://www.toggl.com)"
     gem.email = "Mark@amerine.net"
     gem.homepage = "http://github.com/amerine/toggl4r"
     gem.authors = ["Mark Turner"]
