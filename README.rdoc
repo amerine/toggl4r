@@ -1,0 +1,7 @@
+= toggl4r
+
+Description goes here.
+
+== Copyright
+
+Copyright (c) 2009 Mark Turner. See LICENSE for details.
